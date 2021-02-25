@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Q-Style</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="menu_item_shops">Shops</string>
+    <string name="menu_item_products">Products</string>
+    <string name="menu_item_shop">Q-shop</string>
+    <string name="menu_item_video">Q-video</string>
+    <string name="menu_item_music">Q-music</string>
+    <string name="menu_item_books">Q-books</string>
+    <string name="menu_item_food">Q-food</string>
+    <string name="menu_item_communicate">Communicate</string>
+    <string name="menu_item_settings">Settings</string>
+    <string name="menu_item_send">Send</string>
+
+    <string name="menu_item_ordered_products">Basket</string>
+
+    <string name="delivered_status">Delivered</string>
+</resources>

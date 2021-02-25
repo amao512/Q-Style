@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Q-Style</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <string name="menu_item_shops">Магазины</string>
+    <string name="menu_item_products">Продукты</string>
+    <string name="menu_item_ordered_products">Корзина</string>
+    <string name="menu_item_shop">Q-shop</string>
+    <string name="menu_item_video">Q-video</string>
+    <string name="menu_item_music">Q-music</string>
+    <string name="menu_item_books">Q-books</string>
+    <string name="menu_item_food">Q-food</string>
+    <string name="menu_item_communicate">Communicate</string>
+    <string name="menu_item_settings">Настройки</string>
+    <string name="menu_item_send">Отправить</string>
+
+    <string name="delivered_status">Доставлен</string>
+</resources>
