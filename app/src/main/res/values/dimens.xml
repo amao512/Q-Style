@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="text_size_16x">16sp</dimen>
+
     <dimen name="padding_size_6x">6dp</dimen>
     <dimen name="padding_size_10x">10dp</dimen>
     <dimen name="padding_size_16x">16dp</dimen>
@@ -15,5 +17,5 @@
     <dimen name="product_item_radius">10dp</dimen>
 
     <dimen name="toolbar_elevation">4dp</dimen>
-    <dimen name="nav_header_size">176dp</dimen>
+    <dimen name="nav_header_size">180dp</dimen>
 </resources>
